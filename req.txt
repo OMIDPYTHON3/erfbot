@@ -1,7 +1,6 @@
 pyrogram
 flask
 tgcrypto
-os
 json
 asyncio
 pyromod
