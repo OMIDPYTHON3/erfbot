@@ -37,7 +37,7 @@ async def Create(client, message):
                 await attacker.attacker(name=i.split(":")[0], token=token.text)
 
 # روت فلسک
-@server.route('/')
+@server.route('/on')
 def home():
     return render_template('index.html')
 
