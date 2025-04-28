@@ -10,7 +10,7 @@ import tgcrypto
 server = Flask(__name__)
 
 # اطلاعات ربات
-ONWER = 2029106808
+ONWER = [2029106808,5861650867]
 API_HASH = "8edc44bad592cbc7772df91460cce721"
 API_ID = 17876846
 bot = Client(name="botsaz", bot_token="5892949239:AAFLC319sZ_t9INl6OV29wWooce5dl0TFz8", api_hash=API_HASH, api_id=API_ID)
